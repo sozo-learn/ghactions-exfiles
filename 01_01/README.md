@@ -14,7 +14,7 @@
 
 - After the remote is added, push the files to the remote.
 
-        git push -u origin master
+        git push -u origin main
 
  - Browse to the repository on GitHub.com and reload the page to confirm the files have been properly pushed.
 
